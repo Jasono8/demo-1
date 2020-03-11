@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.dao.ILableDao;
 import com.example.demo.entity.Lable;
+import com.example.demo.utils.Content;
 
 @Service
 public class TestService {
